@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.NET_2_Assignment/Manero.WebApp/Manero.WebApp/obj/Debug/net8.0/scopedcss/projectbundle/Manero.WebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets/Manero.WebApp.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.NET_2_Assignment/Manero.WebApp/Manero.WebApp/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Manero.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Manero.WebApp.props",
+      "PackagePath": "build\\Manero.WebApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Manero.WebApp.props",
+      "PackagePath": "buildMultiTargeting\\Manero.WebApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Manero.WebApp.props",
+      "PackagePath": "buildTransitive\\Manero.WebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

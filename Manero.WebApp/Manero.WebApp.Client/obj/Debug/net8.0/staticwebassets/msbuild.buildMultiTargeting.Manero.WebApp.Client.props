@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Manero.WebApp.Client.props" />
+</Project>
