@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Manero.WebApp.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17fc223e2c4716a9bca7886c5a0bffdcc4466468")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a76d898fa880fb28bfb744e85be8d8791513150")]
 [assembly: System.Reflection.AssemblyProductAttribute("Manero.WebApp.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Manero.WebApp.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
