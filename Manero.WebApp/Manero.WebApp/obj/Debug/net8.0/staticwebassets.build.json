@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "79SkTuWWc523u3IVYUd1nalLrz3CYk3yOBlnM3sgsy8=",
+  "Hash": "1MfipNCkecd6HAlWwBWTkskUH37jNk8ap1U6ZhNk9Xg=",
   "Source": "Manero.WebApp",
   "BasePath": "_content/Manero.WebApp",
   "Mode": "Default",
@@ -7881,6 +7881,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/app.css"
+    },
+    {
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.NET_2_Assignment/Manero.WebApp/Manero.WebApp/wwwroot/Images/mask_group.png",
+      "SourceId": "Manero.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.NET_2_Assignment/Manero.WebApp/Manero.WebApp/wwwroot/",
+      "BasePath": "_content/Manero.WebApp",
+      "RelativePath": "Images/mask_group.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/mask_group.png"
+    },
+    {
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.NET_2_Assignment/Manero.WebApp/Manero.WebApp/wwwroot/Images/mask-group.svg",
+      "SourceId": "Manero.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.NET_2_Assignment/Manero.WebApp/Manero.WebApp/wwwroot/",
+      "BasePath": "_content/Manero.WebApp",
+      "RelativePath": "Images/mask-group.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/mask-group.svg"
     }
   ]
 }

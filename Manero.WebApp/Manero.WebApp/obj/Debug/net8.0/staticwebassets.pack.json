@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets/Manero.WebApp.bundle.scp.css"
     },
     {
+      "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.NET_2_Assignment/Manero.WebApp/Manero.WebApp/wwwroot/Images/mask-group.svg",
+      "PackagePath": "staticwebassets/Images/mask-group.svg"
+    },
+    {
+      "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.NET_2_Assignment/Manero.WebApp/Manero.WebApp/wwwroot/Images/mask_group.png",
+      "PackagePath": "staticwebassets/Images/mask_group.png"
+    },
+    {
       "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.NET_2_Assignment/Manero.WebApp/Manero.WebApp/wwwroot/app.css",
       "PackagePath": "staticwebassets/app.css"
     },
