@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1MfipNCkecd6HAlWwBWTkskUH37jNk8ap1U6ZhNk9Xg=",
+  "Hash": "F/vOrEUiKGIS4j/RJOdBc2RFhtUnCTyrTCFS/wue5us=",
   "Source": "Manero.WebApp",
   "BasePath": "_content/Manero.WebApp",
   "Mode": "Default",
@@ -7883,6 +7883,25 @@
       "OriginalItemSpec": "wwwroot/app.css"
     },
     {
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.NET_2_Assignment/Manero.WebApp/Manero.WebApp/wwwroot/Images/Ellipse_30.png",
+      "SourceId": "Manero.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.NET_2_Assignment/Manero.WebApp/Manero.WebApp/wwwroot/",
+      "BasePath": "_content/Manero.WebApp",
+      "RelativePath": "Images/Ellipse_30.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/Ellipse_30.png"
+    },
+    {
       "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.NET_2_Assignment/Manero.WebApp/Manero.WebApp/wwwroot/Images/mask_group.png",
       "SourceId": "Manero.WebApp",
       "SourceType": "Discovered",
@@ -7919,6 +7938,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Images/mask-group.svg"
+    },
+    {
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.NET_2_Assignment/Manero.WebApp/Manero.WebApp/wwwroot/Images/rectangle.png",
+      "SourceId": "Manero.WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.NET_2_Assignment/Manero.WebApp/Manero.WebApp/wwwroot/",
+      "BasePath": "_content/Manero.WebApp",
+      "RelativePath": "Images/rectangle.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/rectangle.png"
     }
   ]
 }
